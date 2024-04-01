@@ -1,11 +1,7 @@
-name = "Robin"
-age = 232352
+name = ("Robin")
+age = 322
+gender = "Male"
 
-age2 = age
-age3 = age
-dslkafjoasdjkgdjghp
-aselkdgiuasdyhtg
-
-print("My Name is: ", name)
-print("My Age is: ", age)
-print(age2)
+print("my name: ", name)
+print("My Age: ", age) 
+print("My Gender: ", gender)
